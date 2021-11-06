@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background: rgb(243, 242, 238);
+}
+
+/* 
+Tabs
+*/
+
+.MuiTabs-root {
+  align-items: center;
+}
+
+.MuiTab-root {
+  color: white !important;
+}
+
+.MuiTabs-indicator {
+  background-color: white !important;
+}
+
+/*
+Table
+*/
+
+#boxscore-table {
+  max-width: 650px;
+  margin: 1em auto;
+}
+
+.MuiTableCell-root {
+  text-align: center !important;
+}
+
+.total-col {
+  background: rgba(224, 224, 224, 0.25);
+}
